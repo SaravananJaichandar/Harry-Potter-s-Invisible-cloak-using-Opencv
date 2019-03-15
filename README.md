@@ -5,7 +5,7 @@ We all have witnessed and wondered about the invisible cloak in the harry potter
 No !!!!! It is possible with our python's very own opencv library !!
 
 
-![alt text](https://github.com/SaravananJaichandar/Harry-Potter-s-Invisible-cloak-using-Opencv/blob/master/VID-1551046099670_2 (1).gif)
+![alt-text](https://media.giphy.com/media/AiFEL848a091rJW8GY/giphy.gif)
 
 
 This repository contains the jupyter notebook with the code for implementing the harry potter's invisible cloak !!!!
